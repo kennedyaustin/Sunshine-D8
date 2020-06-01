@@ -28,8 +28,8 @@ We created selector fields for type and zip code for each to return appropriate 
 
 ● Mapbox -- https://docs.mapbox.com/api/maps/
 Map Box
-We used this API to show where the results pulled from Yelp are located. The user can quickly see where the various results are based on the interactive map. 
-(AJAX Used to pull data)
+We used this API to show where the results pulled from Yelp are located. The user can quickly see where the various results are based on the interactive map. An AJAX request was used to pull data. <br>
+![](SunshineD8_SS/MapPreview.png)
 
 # New Technology - Javascript Plugins
 Both of the plugins below were used on our sign-in homepage form. <br>
@@ -56,7 +56,6 @@ Rating <br>
 Link to Reviews on Yelp <br>
 ![](SunshineD8_SS/Repeating.png)
 
-
 # Design Layout
 ● CSS <br>
 ● Bootstrap: <br>
@@ -68,7 +67,8 @@ Link to Reviews on Yelp <br>
 
 # Validation Specs
 ● Both search fields (type and zip)= required <br>
-● Zip Code- Limited to 5 characters
+● Zip Code- Limited to 5 characters <br>
+![](SunshineD8_SS/Validation.png)
 
 # Team Members 
 * Austin Kennedy 
