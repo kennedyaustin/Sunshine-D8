@@ -32,11 +32,11 @@ We used this API to show where the results pulled from Yelp are located. The use
 (AJAX Used to pull data)
 
 # New Technology - Javascript Plugins
-Both of the plugins below were used on our sign-in homepage form.
-● X-Ray.js
-Allow the user to show/hide password strings in their password field when needed.
-● Validator.js
-Forces the user to have some sort of email to the degree of being at least 'text@text.com'
+Both of the plugins below were used on our sign-in homepage form. <br>
+● X-Ray.js <br>
+Allow the user to show/hide password strings in their password field when needed. <br>
+● Validator.js <br>
+Forces the user to have some sort of email to the degree of being at least 'text@text.com' <br>
 
 
 # Repeating Elements
