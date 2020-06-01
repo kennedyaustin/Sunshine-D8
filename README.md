@@ -31,10 +31,13 @@ Map Box
 We used this API to show where the results pulled from Yelp are located. The user can quickly see where the various results are based on the interactive map. 
 (AJAX Used to pull data)
 
-# New Technology
-Vanilla Javascript Plug In: X-Ray.js
-This was used on our sign-in homepage form.
-Allows to show/hide password strings in your password field when needed.
+# New Technology - Javascript Plugins
+Both of the plugins below were used on our sign-in homepage form.
+● X-Ray.js
+Allow the user to show/hide password strings in their password field when needed.
+● Validator.js
+Forces the user to have some sort of email to the degree of being at least 'text@text.com'
+
 
 # Repeating Elements
 Yelp API Displays
@@ -58,8 +61,6 @@ Nav Bar
 Log-In Authentication= required
 Both search fields (type and zip)= required
 Zip Code- Limited to 5 characters
-Avoided alerts by using Modals and “Required”  for Sign In and Search functions
-
 
 # Team Members 
 * Austin Kennedy 
