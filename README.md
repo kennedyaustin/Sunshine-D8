@@ -5,7 +5,8 @@ Group Project
 https://zalina4813.github.io/Sunshine-D8/
 
 # Project Description 
-The concept of our project is the facilitation of deciding what to do for date night. Our goal is makedate-planning easier, complete with customized suggestions based on user input. The categories will be:
+The concept of our project is the facilitation of deciding what to do for a date night. Our goal is to make date-planning easier, complete with customized suggestions based on user input. The categories will be:
+
 ● Food & Drinks
 ● Activities
 
@@ -18,6 +19,7 @@ Libraries​:
 ● API calls using AJAX
 
 # APIs:
+
 ● Yelp -- https://www.yelp.com/dataset○https://www.yelp.com/dataset/documentation/main & https://www.yelp.com/developers/documentation/v3/business_search
 Yelp Fusion
 We used this API to pull details from Yelp’s database for two searches: Restaurants & Activities. 
@@ -60,9 +62,9 @@ Avoided alerts by using Modals and “Required”  for Sign In and Search functi
 
 
 # Team Members 
+* Austin Kennedy 
 * Zalina Magiday
 * Dana Nobile 
-* Austin Kennedy 
 * Joshua Maldonado
 * Majid Modak
 * Jackie Geiger 
