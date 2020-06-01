@@ -11,7 +11,7 @@ The concept of our project is the facilitation of deciding what to do for a date
 ● Activities
 
 # Webpage Components
-Libraries​:
+Libraries​: <br>
 ● HTML5 <br>
 ● CSS <br>
 ● Bootstrap <br>
