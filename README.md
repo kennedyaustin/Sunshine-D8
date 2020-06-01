@@ -7,15 +7,15 @@ https://zalina4813.github.io/Sunshine-D8/
 # Project Description 
 The concept of our project is the facilitation of deciding what to do for a date night. Our goal is to make date-planning easier, complete with customized suggestions based on user input. The categories will be:
 
-● Food & Drinks
+● Food & Drinks <br>
 ● Activities
 
 # Webpage Components
 Libraries​:
-● HTML5
-● CSS
-● Bootstrap
-● Jquery
+● HTML5 <br>
+● CSS <br>
+● Bootstrap <br>
+● Jquery <br>
 ● API calls using AJAX
 
 # APIs:
