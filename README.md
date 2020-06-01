@@ -48,8 +48,7 @@ Forces the user to have some sort of email to the degree of being at least 'text
 
 
 # Repeating Elements
-● Yelp API Displays <br>
-● Using for loops, we generated repeating elements for activities and restaurants: <br>
+● Using for loops, we generated repeating elements for activities and restaurants from the Yelp API: <br>
 Image <br>
 Business Name <br>
 Phone Number <br>
