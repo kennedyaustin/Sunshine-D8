@@ -67,7 +67,6 @@ Link to Reviews on Yelp <br>
 ![](SunshineD8_SS/SigninModal.png)
 
 # Validation Specs
-● Log-In Authentication= required <br>
 ● Both search fields (type and zip)= required <br>
 ● Zip Code- Limited to 5 characters
 
