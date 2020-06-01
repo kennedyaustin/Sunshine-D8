@@ -53,7 +53,9 @@ Image <br>
 Business Name <br>
 Phone Number <br>
 Rating <br>
-Link to Reviews on Yelp
+Link to Reviews on Yelp <br>
+![](SunshineD8_SS/Repeating.png)
+
 
 # Design Layout
 ● CSS <br>
@@ -62,7 +64,7 @@ Link to Reviews on Yelp
     Modals <br>
     Columns/Rows <br>
     Buttons <br>
-    Nav Bar 
+![](SunshineD8_SS/SigninModal.png)
 
 # Validation Specs
 ● Log-In Authentication= required <br>
