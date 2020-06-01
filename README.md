@@ -48,8 +48,8 @@ Forces the user to have some sort of email to the degree of being at least 'text
 
 
 # Repeating Elements
-Yelp API Displays <br>
-Using for loops, we generated repeating elements for activities and restaurants: <br>
+● Yelp API Displays <br>
+● Using for loops, we generated repeating elements for activities and restaurants: <br>
 Image <br>
 Business Name <br>
 Phone Number <br>
@@ -66,8 +66,8 @@ Link to Reviews on Yelp
     Nav Bar 
 
 # Validation Specs
-● Log-In Authentication= required 
-● Both search fields (type and zip)= required
+● Log-In Authentication= required <br>
+● Both search fields (type and zip)= required <br>
 ● Zip Code- Limited to 5 characters
 
 # Team Members 
