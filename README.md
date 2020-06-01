@@ -35,8 +35,16 @@ We used this API to show where the results pulled from Yelp are located. The use
 Both of the plugins below were used on our sign-in homepage form. <br>
 ● X-Ray.js <br>
 Allow the user to show/hide password strings in their password field when needed. <br>
+  ● Hide Password <br>
+  ![](SunshineD8_SS/HidingPass.png)
+  ● Show Password <br>
+  ![](SunshineD8_SS/ShowingPass.png)
 ● Validator.js <br>
 Forces the user to have some sort of email to the degree of being at least 'text@text.com' <br>
+  ● Valid Email <br>
+  ![](SunshineD8_SS/ValidEmail.png)
+  ● Invalid Email <br>
+  ![](SunshineD8_SS/InvalidEmail.png)
 
 
 # Repeating Elements
